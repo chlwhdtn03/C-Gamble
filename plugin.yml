@@ -1,0 +1,7 @@
+name: C-Gamble
+version: 1.0
+main: gamble.chlwhdtn.Gamble
+softdepend: [C-Economy, C-Land]
+
+commands:
+  gamble:
